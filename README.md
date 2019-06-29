@@ -1,7 +1,5 @@
 # US-Telephone-Number-Validator
 
-US Telephone Number Validator in JavaScript
-=======
 US Telephone Number Validator in JavaScript for this formats :
 
 555-555-5555
